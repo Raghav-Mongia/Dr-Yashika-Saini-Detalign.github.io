@@ -1,19 +1,19 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/dentelo)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/dentelo?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/dentelo?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/q0WvF0OVWVg?style=social)](https://youtu.be/q0WvF0OVWVg)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Raghav-Mongia/Dr-Yashika-Saini-Dentalign)
+  ![GitHub stars](https://img.shields.io/github/stars/Raghav-Mongia/Dr-Yashika-Saini-Dentalign?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Raghav-Mongia/Dr-Yashika-Saini-Dentalign?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Raghav-Mongia_?style=social)](https://twitter.com/intent/follow?screen_name=Raghav-Mongia_)
+  
 
   <br />
   <br />
 
-  <h2 align="center">Dentelo - Dental website</h2>
+  <h2 align="center">Dentalign - Dental website</h2>
 
-  Dentelo is a fully responsive dental website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Dentalign is a best dental clinic, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/dentelo/"><strong>➥ Live Demo</strong></a>
+  <a href="https://Raghav-Mongia/Dr-Yashika-saini-.github.io/dentelo/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Dentelo Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Dentalign Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,24 +31,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Dentelo** locally, run this command on your git bash:
+To run **Dentalign** locally, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/dentelo.git
+sudo git clone https://github.com/Raghav-Mongia/Dr-Yashika-Saini-Dentalign.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/dentelo.git
+git clone https://github.com/Raghav-Mongia/Dr-Yashika-Saini-Dentalign.git
 ```
 
-### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
